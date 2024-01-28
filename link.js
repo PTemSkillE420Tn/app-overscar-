@@ -36,7 +36,7 @@ const data = {
             },
             "Menja Mellor": {
                 post: "In this menja game you have to break blocks",
-                image: "Menja Icon.png",
+                image: "https://i.ibb.co/zJhxKpf/Menja-Icon.png",
                 url: "Menja Game.html"
             },
             "Puzzle": {
